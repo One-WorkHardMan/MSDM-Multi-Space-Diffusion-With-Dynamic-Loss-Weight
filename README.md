@@ -10,7 +10,7 @@ Diffusion models have achieved remarkable results in image generation. However, 
 * Hybrid Loss Function: Combines Structural Similarity (SSIM) and Huber loss to improve image quality.
 * High-Resolution Image Generation: Achieves advanced FID scores on high-resolution datasets like ImageNet512.
 
-##  Datasets
+## ?Datasets
 The following datasets are used in this project:
 
 * \- Cifar10
@@ -51,13 +51,13 @@ The MSDM model achieves the following performance on ImageNet512:
 * **Convergence Speed**: 3.7 times faster than the **Const strategy**
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the?LICENSE?file for more details.
 
 ## Acknowledgments
 This work is supported by various grants and research projects. We thank Cathal Gurrin for his valuable inputs that helped improve this work!
 
 ## Contact
-For any questions or inquiries, please contact the first author via email: [2022110292@scuec.edu.cn](mailto:2022110292@scuec.edu.cn).
+For any questions or inquiries, please contact the first author via email:?[2022110292@scuec.edu.cn](mailto:2022110292@scuec.edu.cn).
 
 
 
